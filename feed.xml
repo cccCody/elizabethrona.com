@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:374C99E2-10D9-457C-9200-93196A9D867C</id>
+ <title>Page list Atom feed</title>
+ <updated>2014-01-06T17:13:28-08:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:20BEEFFA-F85A-4FAF-8654-B565FE7B3FF2</id>
+  <title>Home</title>
+  <title xmlns="urn:iweb:">Home</title>
+  <in-navbar xmlns="urn:iweb:">20BEEFFA-F85A-4FAF-8654-B565FE7B3FF2</in-navbar>
+  <link rel="alternate" href="Home.html"/>
+  <updated>2014-01-06T17:13:28.001-08:00</updated>
+  <content>Home</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:48AFDFA7-1761-4D95-8026-5F86FADA5C32</id>
+  <title>Credentials</title>
+  <title xmlns="urn:iweb:">Credentials</title>
+  <in-navbar xmlns="urn:iweb:">48AFDFA7-1761-4D95-8026-5F86FADA5C32</in-navbar>
+  <link rel="alternate" href="Credentials.html"/>
+  <updated>2014-01-06T17:13:28.002-08:00</updated>
+  <content>Credentials</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:BF25B88D-D572-48A2-8CE6-9A04E79B17F2</id>
+  <title>Media </title>
+  <title xmlns="urn:iweb:">Media </title>
+  <in-navbar xmlns="urn:iweb:">BF25B88D-D572-48A2-8CE6-9A04E79B17F2</in-navbar>
+  <link rel="alternate" href="Media.html"/>
+  <updated>2014-01-06T17:13:28.003-08:00</updated>
+  <content>Media </content>
+ </entry>
+ <entry>
+  <id>urn:iweb:81C1A7B7-1172-4ECD-B025-3C7B0642B93B</id>
+  <title>Languages</title>
+  <title xmlns="urn:iweb:">Languages</title>
+  <in-navbar xmlns="urn:iweb:">81C1A7B7-1172-4ECD-B025-3C7B0642B93B</in-navbar>
+  <link rel="alternate" href="Languages.html"/>
+  <updated>2014-01-06T17:13:28.004-08:00</updated>
+  <content>Languages</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:20077DE6-1CD4-4A24-AC04-81FB4690E31B</id>
+  <title>Sessions</title>
+  <title xmlns="urn:iweb:">Sessions</title>
+  <in-navbar xmlns="urn:iweb:">20077DE6-1CD4-4A24-AC04-81FB4690E31B</in-navbar>
+  <link rel="alternate" href="Sessions.html"/>
+  <updated>2014-01-06T17:13:28.005-08:00</updated>
+  <content>Sessions</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:73F449BB-D10A-45C1-9171-D5067EDED23B</id>
+  <title>Contact</title>
+  <title xmlns="urn:iweb:">Contact</title>
+  <in-navbar xmlns="urn:iweb:">73F449BB-D10A-45C1-9171-D5067EDED23B</in-navbar>
+  <link rel="alternate" href="Contact.html"/>
+  <updated>2014-01-06T17:13:28.006-08:00</updated>
+  <content>Contact</content>
+ </entry>
+</feed>
